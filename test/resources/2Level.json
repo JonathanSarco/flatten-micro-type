@@ -1,0 +1,13 @@
+{
+  "address": {
+    "street": {
+      "value": "Street 1"
+    },
+    "city": {
+      "value": "Rotterdam"
+    },
+    "zipcode": {
+      "value": "1234AA"
+    }
+  }
+}
